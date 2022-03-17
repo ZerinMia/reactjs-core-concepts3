@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.counter{
+  background-color: lightcoral;
+  border: 3px solid maroon;
+  border-radius: 5px;
+  margin: 15px; 
+}
+#increase{
+  color:white;
+  font-weight: 500;
+ background-image: linear-gradient(lightsalmon,tomato);
+ padding: 15px;
+ border-radius: 3px;
+ border: none;
+ margin: 5px;
+}
+#decrease{
+  color:white;
+  font-weight: 500;
+  background-image: linear-gradient(orange,tomato);
+ padding: 15px;
+ border-radius: 3px;
+ border: none;
+ margin: 5px;
+}
